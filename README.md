@@ -21,3 +21,9 @@ Current document.
 tran_sf_roadve+ESTAT.csv
 This data was collected from eurostat CARE database. Link is here: 
 https://ec.europa.eu/eurostat/databrowser/view/tran_sf_roadve/default/table?lang=en . Please select all 26 types of vehicles.
+# Summary
+This project provided analysis of road kills in the EU in the period 1999-2018. Annual road kills decreased by more tha 40%.
+# Author
+Algirdas Dučinskas
+# Acknowledgements
+I would like to give credit to eurostat for providing the open data and to UDACITY for providing feedback.
