@@ -2,7 +2,7 @@
 A Udacity Project as Part of the Data Science Nanodegree
 # Motivation
 The goal of this project is to analyze the data on road kills in Europe Union from 1999 to 2018. In this analysis the main addressed questions are as follows:
-- How road do kills change over the course of 1999-2018?
+- How do road kills change over the course of 1999-2018?
 - Which categories of transport are the most commonly involved in the deadly accidents?
 - Which of these transport categories have experienced the biggest reduction in deaths?
 - Which top 10 countries have improved the most in reducing the road kills?
